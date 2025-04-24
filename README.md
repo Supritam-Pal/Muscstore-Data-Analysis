@@ -1,4 +1,4 @@
-# Muscstore-Data-Analysis
+# Musicstore-Data-Analysis
 
 # SQL Project – Database Setup and Structure
 
